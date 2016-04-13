@@ -179,7 +179,7 @@ NOTE:
 - 4. Correctness - Should produce correct output.
 - 5. Finite - It should have finite number of steps.
 - 6. General - It should use variables, and must be applicable to all problems of the same type.
-- 
+
 - **Pseudocode** 
   - high-level desciption of an algorithm that uses the structural conventions of a programming language.
   - intended for human reading
@@ -219,21 +219,21 @@ NOTE:
 
 ##Week10
 - **BINARY SEARCH PSEUDOCODE** 
-- comparison of the middle values of a list until the desired output is found.
+ comparison of the middle values of a list until the desired output is found.
 
 - **SORTING ALGORITHMS**
-- problem of assorting elements into increasing order
+ problem of assorting elements into increasing order
 
 - **BUBBLE SORT** 
-- compares the first two elements then interchanging them if they are in the incorrect order
+ compares the first two elements then interchanging them if they are in the incorrect order
 
 - **INSERTION SORT**
-- compares the second element with the first and inserts it before the first element if it is less
-- Otherwise, it is inserted after the first element.
+ compares the second element with the first and inserts it before the first element if it is less
+ Otherwise, it is inserted after the first element.
 
 - **GREEDY ALGORITHMS** 
-- selects the best choice at each step, instead of considering all sequences that may lead to an optimal solution
-- applied in optimization problems where a solution to the given problem either minimizes or maximizes the value of some parameter
+ selects the best choice at each step, instead of considering all sequences that may lead to an optimal solution
+ applied in optimization problems where a solution to the given problem either minimizes or maximizes the value of some parameter
 
 
 
