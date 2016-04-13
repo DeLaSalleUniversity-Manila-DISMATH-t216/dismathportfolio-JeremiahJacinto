@@ -137,7 +137,7 @@ NOTE:
 
 - Union ∪ = And ∨
 - Intersection ∩ = Or ∧
--
+
  **SET IDENTITIES TABLE**
 
 |  **LAW**  |  **IDENTITY**  |
@@ -162,7 +162,7 @@ NOTE:
     - **One - to - one Correspondence (Bijection)** - function is both one - to - one and onto.
 - Domain
 - Co-Domain
-- 
+
 - NOTE: 
 - int floor(float real)
 - floor is the co domain
@@ -220,21 +220,21 @@ NOTE:
 ##Week10
 - **BINARY SEARCH PSEUDOCODE** 
 - comparison of the middle values of a list until the desired output is found.
--
+
 - **SORTING ALGORITHMS**
 - problem of assorting elements into increasing order
--
+
 - **BUBBLE SORT** 
 - compares the first two elements then interchanging them if they are in the incorrect order
 
 - **INSERTION SORT**
 - compares the second element with the first and inserts it before the first element if it is less
 - Otherwise, it is inserted after the first element.
--
+
 - **GREEDY ALGORITHMS** 
 - selects the best choice at each step, instead of considering all sequences that may lead to an optimal solution
 - applied in optimization problems where a solution to the given problem either minimizes or maximizes the value of some parameter
-  - <b> The Complexity of Algorithm </b> and <b> BIG-O NOTATION </b> were introduced.
+
 
 
 ##Week11:
