@@ -132,7 +132,7 @@ NOTE:
 	- consists of only common elements in sets A and B
 - DIFFERENCE - A - B or A \ B
 	- consists of elements from sets A and B but not their intersection
- SYMMETRIC DIFFERENCE - A ∆ B
+- SYMMETRIC DIFFERENCE - A ∆ B
 	- consists of elements from sets A and B but not their intersection
 
 - Union ∪ = And ∨
@@ -227,7 +227,6 @@ NOTE:
 - **INSERTION SORT**
     - compares the second element with the first and inserts it before the first element if it is less
     - Otherwise, it is inserted after the first element.
-
 - **GREEDY ALGORITHMS** 
     - selects the best choice at each step, instead of considering all sequences that may lead to an optimal solution
     - applied in optimization problems where a solution to the given problem either minimizes or maximizes the value of some parameter
@@ -305,7 +304,7 @@ NOTE:
 - Apply KISS(Keep it simple stu***!)
 - Kn = Complete connection of nodes
 - n = number of nodes
-- 
+
 ##Week13
 -**Graph Coloring**
 - minimal use of color
